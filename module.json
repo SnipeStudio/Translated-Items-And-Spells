@@ -2,7 +2,7 @@
 	"name": "Translated-Items-And-Spells",
 	"title": "Translated Items And Spells",
 	"description": "Allows to import in charactes sheet translated and fully working spells and items",
-	"version": "0.0.0.1",
+	"version": "0.0.0.2",
 	"author": "steamdragon",	
 	"compatibleCoreVersion": "0.6.0",
 	"packs": [

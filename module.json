@@ -1,11 +1,10 @@
 { 
-	"name": "Translated Items And Spells for D&D 5e",
+	"name": "Translated-Items-And-Spells",
 	"title": "Translated Items And Spells",
 	"description": "Allows to import in charactes sheet translated and fully working spells and items",
 	"version": "0.0.0.1",
 	"author": "steamdragon",	
-	"minimumCoreVersion": "0.5.0",
-	"compatibleCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.6.0",
 	"packs": [
 		{
 			"name": "perevedennye-sposobnosti",

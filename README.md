@@ -1,2 +1,6 @@
-# Translated-Items-And-Spells
-Allows to import in charactes sheet translated and fully working spells and items
+# Foundry Translated Items And Spells
+Позволяет использовать уже переведенные заклинания, способности и предметы в любых играх, что упрощает заполнение чарников :)
+А так же добавляет несколько авторских предметов, но их использование уже по желанию :P
+Версия: 0.0.0.1
+
+
